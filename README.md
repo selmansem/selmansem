@@ -39,7 +39,9 @@
 <img align="left" alt="Linux Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Power Shell" width="26px" src="https://raw.githubusercontent.com/github/explore/d6df80340ca325549dea46f61f4c92b4fc157ee3/topics/powershell/powershell.png" />
 
+<br />
 ---
+<br />
 
 <img align="left" alt="Selman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=selmansem&show_icons=true&hide_border=true" />
 
