@@ -25,7 +25,7 @@
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/d6df80340ca325549dea46f61f4c92b4fc157ee3/topics/ruby/ruby.png" />
 <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/d6df80340ca325549dea46f61f4c92b4fc157ee3/topics/markdown/markdown.png" />
 
-<br />
+<br /><br />
 
 ### Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
