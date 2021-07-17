@@ -50,4 +50,4 @@
 
 [website]: https://el3vator.com
 [twitter]: https://twitter.com/eshop_grx
-[telegram]: https://t.me/eshop_grx
+[telegram]: https://t.me/es_grx
