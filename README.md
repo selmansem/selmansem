@@ -1,5 +1,5 @@
 <a href="https://souhaibem.eu" target="_blank">
-  <img src="https://dev.souhaibem.eu/myTrailmoji.webp" alt="Astro-Souhaib" height="150px" />
+  <img src="https://cdn.souhaibem.eu/myTrailmoji.webp" alt="Astro-Souhaib" width="160px" />
 </a>
 
 # ¡Hola! 👋 Soy Souhaib
@@ -26,7 +26,7 @@ Desarrollador Full Stack de Granada, España 🇪🇸.<br/>**+6 años de experie
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cpp&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Oracle_PL%2FSQL-F80000?logo=oracle&logoColor=white&style=flat" alt="PL/SQL" />
 </p>
 
 ### Frameworks y Librerías
@@ -84,7 +84,8 @@ Desarrollador Full Stack de Granada, España 🇪🇸.<br/>**+6 años de experie
 
 ## 🚀 Últimos proyectos
 
-- [**Desdezaragoza**](https://desdezaragoza.es): Desarrollo de la web de la agencia de viages Desdezaragoza S.L. Landing, tienda online y blog.
+- [**Desdezaragoza**](https://desdezaragoza.es): Desarrollo de la web de la agencia de viages Desdezaragoza S.L. Landing, tienda online, backoffice y blog.
+- [**Booler Technology**](https://booler.es): Desarrollo de la landing page.
 - Para conocer el resto de proyectos, simplemente tienes que preguntar 😉.
 
 ## 🌐 Contáctame
