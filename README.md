@@ -7,8 +7,8 @@ Especializado en ciberseguridad ofensiva (Red Team), con capacidad full stack pa
 
 - 🔐 Analista SOC activo desde 2022 · Cibercooperante INCIBE
 - 🏆 Competiciones:
-  - 1er puesto — CTF UGR LAN Party (Universidad de Granada)
-  - 1er puesto — CTF Día de la ETSIIT (Universidad de Granada)
+    - 1er puesto — CTF UGR LAN Party (Universidad de Granada)
+    - 1er puesto — CTF Día de la ETSIIT (Universidad de Granada)
 - 🎓 Grado en Ingeniería Informática · Universidad de Granada (ETSIIT)
 - 🌍 Comunicación técnica en español, inglés y árabe
 
@@ -17,6 +17,7 @@ Especializado en ciberseguridad ofensiva (Red Team), con capacidad full stack pa
 ## 🛠️ Stack técnico
 
 ### Lenguajes
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -31,6 +32,7 @@ Especializado en ciberseguridad ofensiva (Red Team), con capacidad full stack pa
 </p>
 
 ### Frontend & Mobile
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -42,6 +44,7 @@ Especializado en ciberseguridad ofensiva (Red Team), con capacidad full stack pa
 </p>
 
 ### Backend & Bases de datos
+
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
@@ -53,6 +56,7 @@ Especializado en ciberseguridad ofensiva (Red Team), con capacidad full stack pa
 </p>
 
 ### Cloud & DevOps
+
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP" />
@@ -64,6 +68,7 @@ Especializado en ciberseguridad ofensiva (Red Team), con capacidad full stack pa
 </p>
 
 ### Ciberseguridad & OSINT
+
 <p align="left">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C8D?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Metasploit-6A4C93?style=flat&logo=metasploit&logoColor=white" alt="Metasploit" />
@@ -80,12 +85,12 @@ Especializado en ciberseguridad ofensiva (Red Team), con capacidad full stack pa
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Descripción |
-|---|---|
+| Proyecto                                              | Descripción                                                                                                              |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | [**Antares Barcelona**](https://antaresbarcelona.com) | Ecosistema completo para gestionar las peticiones de clientes / usuarios del edificio: app iOS, Android y backoffice web |
-| [**DesdeZaragoza.es**](https://desdezaragoza.es) | Web completa para agencia de viajes: frontend, backend, CMS y pasarela de pagos Redsys |
-| [**Booler Technologies**](https://booler.es) | Landing corporativa para empresa de IA conversacional enterprise |
-| [**UrbanRoosters**](https://urbanrooster.app) | CRM de gestión de contenido a medida, en producción con usuarios reales |
+| [**DesdeZaragoza.es**](https://desdezaragoza.es)      | Web completa para agencia de viajes: frontend, backend, CMS y pasarela de pagos Redsys                                   |
+| [**Booler Technologies**](https://booler.es)          | Landing corporativa para empresa de IA conversacional enterprise                                                         |
+| [**UrbanRoosters**](https://urbanrooster.app)         | CRM de gestión de contenido a medida, en producción con usuarios reales                                                  |
 
 ---
 
