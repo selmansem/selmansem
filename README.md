@@ -90,7 +90,7 @@ Especializado en ciberseguridad ofensiva (Red Team), con capacidad full stack pa
 | [**Antares Barcelona**](https://antaresbarcelona.com) | Ecosistema completo para gestionar las peticiones de clientes / usuarios del edificio: app iOS, Android y backoffice web |
 | [**DesdeZaragoza.es**](https://desdezaragoza.es)      | Web completa para agencia de viajes: frontend, backend, CMS y pasarela de pagos Redsys                                   |
 | [**Booler Technologies**](https://booler.es)          | Landing corporativa para empresa de IA conversacional enterprise                                                         |
-| [**UrbanRoosters**](https://urbanrooster.app)         | CRM de gestión de contenido a medida, en producción con usuarios reales                                                  |
+| [**UrbanRoosters**](https://urbanroosters.app)         | CRM de gestión de contenido a medida, en producción con usuarios reales                                                  |
 
 ---
 
